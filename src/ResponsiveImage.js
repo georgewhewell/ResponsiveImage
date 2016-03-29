@@ -1,5 +1,6 @@
 'use strict';
 
+let React = require('react');
 let assign = require('object-assign');
 
 module.exports = React.createClass({
